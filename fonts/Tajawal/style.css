@@ -1,0 +1,49 @@
+@font-face {
+   font-family: 'Tajawal';
+   font-style: normal;
+   font-display: swap;
+   font-weight: 200;
+   src: url('file:///Users/abdo/Workshop/Bamukrah/fonts/Tajawal/200.ttf') format('truetype');
+}
+@font-face {
+   font-family: 'Tajawal';
+   font-style: normal;
+   font-display: swap;
+   font-weight: 300;
+   src: url('file:///Users/abdo/Workshop/Bamukrah/fonts/Tajawal/300.ttf') format('truetype');
+}
+@font-face {
+   font-family: 'Tajawal';
+   font-style: normal;
+   font-display: swap;
+   font-weight: 500;
+   src: url('file:///Users/abdo/Workshop/Bamukrah/fonts/Tajawal/500.ttf') format('truetype');
+}
+@font-face {
+   font-family: 'Tajawal';
+   font-style: normal;
+   font-display: swap;
+   font-weight: 700;
+   src: url('file:///Users/abdo/Workshop/Bamukrah/fonts/Tajawal/700.ttf') format('truetype');
+}
+@font-face {
+   font-family: 'Tajawal';
+   font-style: normal;
+   font-display: swap;
+   font-weight: 800;
+   src: url('file:///Users/abdo/Workshop/Bamukrah/fonts/Tajawal/800.ttf') format('truetype');
+}
+@font-face {
+   font-family: 'Tajawal';
+   font-style: normal;
+   font-display: swap;
+   font-weight: 900;
+   src: url('file:///Users/abdo/Workshop/Bamukrah/fonts/Tajawal/900.ttf') format('truetype');
+}
+@font-face {
+   font-family: 'Tajawal';
+   font-style: regular;
+   font-display: swap;
+   font-weight: 400;
+   src: url('file:///Users/abdo/Workshop/Bamukrah/fonts/Tajawal/regular.ttf') format('truetype');
+}
